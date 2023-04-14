@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1tvg-name="Unitel HD"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/Unitel_HD.jpg"group-title="canales bolivianos",Unitel HD.
-https://stream-03.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZdU4pbfF49o6BoE8FCL9COPU0-CoPs_0hBwMrGzAMiby)/dm/3/x7vsezg/d/live-3.m3u8
+https://stream-02.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl5LQ9lhTFU2qFVGzlj14sMmtk0CH18Je8KiEf6BIkYjt)/dm/3/x7wzxiw/s/live-3.m3u8
 
 #EXTINF:-1tvg-name="Bolivision HD"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/Bolivisi%C3%B3nHD.png/revision/latest/scale-to-width-down/1200?cb=20220726175333&path-prefix=es"group-title="canales bolivianos",Bolivision HD.
 https://d2byzrnrdb259r.cloudfront.net/hls/live_480p30.m3u8
